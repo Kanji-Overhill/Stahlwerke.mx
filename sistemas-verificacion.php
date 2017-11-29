@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8"> 
+	<title>Construccion de Naves Industriales, Estructuras de acero</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas">
+	<meta name="robots" content="index, follow">
+		<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@StahlWerke">
+	<meta name="twitter:title" content="StahlWerke | Naves Industriales, Estructuras de acero">
+	<meta name="twitter:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas">
+	<meta name="twitter:image" content="http://stahlwerke.mx/images/acerca.jp">
+
+	<!-- Open Graph data -->
+	<meta property="og:title" content="StahlWerke | Naves Industriales, Estructuras de acero" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://stahlwerke.mx/" />
+	<meta property="og:image" content="http://stahlwerke.mx/images/acerca.jpg" />
+	<meta property="og:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas" /> 
+	<meta property="og:site_name" content="Stahlwerke" />
+
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/styles-scroll-page.css">
+	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/flaticon.css">
+
+	<link rel="canonical" href="http://stahlwerke.mx/sistemas-verificacion" />
+</head>
+<body>
+	<header>
+		<nav> 
+		    <input type="checkbox" id="menu-desplega">
+		    <label for="menu-desplega" class="menu-button">
+		    	<span></span>
+		    	<span></span>
+		    	<span></span>
+		    </label>
+			<a href="index" class="logo">
+				<img class="logo1" src="images/stahlwerke-simbolo.png" alt="estructuras metalicas, naves industriales, equipos industriales">
+				<img class="logo2" src="images/stahlwerke-letras.png" alt="estructuras metalicas, naves industriales, equipos industriales">
+				<img class="logo3" src="images/logo2.png" alt="estructuras metalicas, naves industriales, equipos industriales">
+			</a>
+			<ul class="menu-principal">
+				<li><a href="acerca" class="menu-none">Acerca de</a></li>
+				<li>
+				    <div for="">
+				    	<a class="menu-desplegar" id="desplegar-1" href="tecnologia">Tecnología</a>
+				        <ul class="sub-menu" id="sub-1">
+				    	<li><a href="aplicaciones">Aplicaciones</a></li>
+				    	<li><a href="dispositivos-almacenaje">Dispositivos de almacenaje</a></li>
+				    	<li><a href="estructuras-metalicas">Estructuras metálicas</a></li>
+				    	<li><a href="dispositivos-transporte">Dispositivos de transporte</a></li>
+				    	<li><a href="sistemas-almacenamiento">Sistemas logisticos de almacenamiento automatizado</a></li>
+				        </ul>
+				    </div>
+				</li>
+				<li>
+				    <a class="menu-desplegar" id="desplegar-2" href="servicios">Servicios</a>
+				    <ul class="sub-menu" id="sub-2">
+				    	<li><a href="preparacion-trabajo">Preparacion</a></li>
+				    	<li><a href="simulacion">Simulacion</a></li>
+				 
+				    	<li><a href="ingenieria">Ingeniería</a></li>
+				    	<li><a href="flujo-procesos">Flujo de procesos</a></li>
+				    </ul>
+				</li>
+				<li>
+				    <a class="menu-desplegar" id="desplegar-3" href="productos">Productos</a>
+				    <ul class="sub-menu" id="sub-3">
+				    	<li><a href="elevacion-almacenamiento">Elevación y almacenamiento</a></li>
+				    	<li><a href="simulaciones">Simulaciones</a></li>
+				    	<li><a href="sistemas-verificacion">Sistemas de verificación</a></li>
+				    	<li><a href="brazos-articulados">Brazos articulados</a></li>
+				    	<li><a href="ayudas-ergonomicas">Ayudas ergonomicas</a></li>
+				    	<li><a href="estructuras-equipo">Estructuras y equipos de Acero para industria</a></li>
+				    </ul>
+				</li>
+				<li><a href="contacto" class="menu-none">Contacto</a></li>
+				<li class="social">
+					<a href="https://www.facebook.com/StahlWerkeMx/" class="flaticon-facebook-logo-button" target="blank"></a>
+					<a href="https://twitter.com/StahlWerke" target="blank" class="flaticon-twitter-logo-button"></a>
+				</li>
+			</ul>
+			<a class="cotiza-menu menu-none" href="contacto">Cotiza ahora</a>
+		</nav>
+	</header>
+	<main>
+		<section class="fixed-page" style="background-image: url(images/sistema.jpg);">
+			<article>
+				<div class="parrafos numeros">
+					<p>
+						<b>850</b>
+						Diseños de<br>
+						productos
+					</p>
+				</div>
+				<div class="parrafos numeros">
+					<p>
+						<b>+1,250</b>
+						Simulaciones<br>
+						realizadas
+					</p>
+				</div>
+				<div class="parrafos numeros">
+					<p>
+						<b>3,000+</b>
+						Pruebas en<br>
+						productos
+					</p>
+				</div>
+				<div class="parrafos numeros">
+					<p>
+						<b>+1500</b>
+						Productos<br>
+						fabricados
+					</p>
+				</div>
+				<div class="parrafos numeros">
+					<p>
+						<b>24/7</b>
+						Sistemas<br>
+						automatizados
+					</p>
+				</div>
+			</article>
+		</section>
+		<section class="scroll-page">
+			<article>
+				<h1>Sistemas
+				<b>de verificación de calidad</b></h1>
+				<h2>Ventajas</h2>
+		    <div class="img-left">
+				<img src="images/ingenieria-1.jpg" alt="estructuras metalicas, naves industriales, equipos industriales">
+				<p><b>Mejora de productividad</b><br>
+				El probar para errores ayuda a eliminar la inspección y con esto reduce el retraso entre pasos, permitiendo que los operadores pasen menos tiempo revisando entre pasos de producción.<br>También ayudan a eliminar interrupciones por manejo de scrap, retrabajos y reparaciones.</p>
+			</div>
+			<p><b>Un nivel más alto de calidad</b><br>
+			Se sabe que estas técnicas pueden reducir las tasas de defectos a 50 partes por millón (ppm), superando a técnicas tradicionales como six sigma en la producción.</p>
+			<p><b>Eliminación de paros de producción</b><br>
+			Un error puede significar parar la producción de las empresas tractoras por lo que se requiere de sistemas de calidad estrictos que permitan que la producción se genere de manera fluida.</p>
+			<img src="images/sistema-1.jpg" class="imagen-total" alt="estructuras metalicas, naves industriales, equipos industriales">
+			<p><b>Costo más bajo en control de calidad</b><br>
+			A pesar de que se utilizan muchas herramientas para este tipo de sistemas, su costo es menor a alternativas tradicionales. Este tipo de sistemas puede ser menos caro que utilizar máquinas de coordenadas o sistema de medición.</p>
+			<p><b>Diseño a la medida</b><br>
+			El sistema por definición debe ser a la medida de las necesidades de producción del cliente, por este motivo nuestros ingenieros pueden revisar sus sistemas y proponer soluciones para el control de calidad que cumplan con sus objetivos de producción y economía.</p>
+			<div class="scroll-fotter scroll-fotter-none">
+				<p>© Stahl Werke - Todos los derechos reservados</p>
+			</div>
+			</article>
+		</section>
+	</main>
+	<footer></footer>
+</body>
+<script src="js/scripts.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64257742-11', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>
