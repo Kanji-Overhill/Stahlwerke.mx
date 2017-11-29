@@ -1,7 +1,10 @@
+<?php
+require "Tools.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8"> 
+	<meta charset="UTF-8">
 	<title>Construccion de Naves Industriales, Estructuras de acero</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas">
@@ -18,18 +21,16 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content="http://stahlwerke.mx/" />
 	<meta property="og:image" content="http://stahlwerke.mx/images/acerca.jpg" />
-	<meta property="og:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas" /> 
+	<meta property="og:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas" />
 	<meta property="og:site_name" content="Stahlwerke" />
-
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/styles-scroll-page.css">
 	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/flaticon.css">
-
-	<link rel="canonical" href="http://stahlwerke.mx/flujo-procesos" />
+	<link rel="canonical" href="http://stahlwerke.mx/contacto" />
 </head>
 <body>
 	<header>
-		<nav> 
+		<nav>
 		    <input type="checkbox" id="menu-desplega">
 		    <label for="menu-desplega" class="menu-button">
 		    	<span></span>
@@ -47,7 +48,7 @@
 				    <div for="">
 				    	<a class="menu-desplegar" id="desplegar-1" href="tecnologia">Tecnología</a>
 				        <ul class="sub-menu" id="sub-1">
-				    	
+
 				    	<li><a href="dispositivos-almacenaje">Dispositivos de almacenaje</a></li>
 				    	<li><a href="estructuras-metalicas">Estructuras metálicas</a></li>
 				    	<li><a href="dispositivos-transporte">Dispositivos de transporte</a></li>
@@ -61,7 +62,7 @@
 				    	<li><a href="aplicaciones">Aplicaciones</a></li>
 				    	<li><a href="preparacion-trabajo">Preparacion</a></li>
 				    	<li><a href="simulacion">Simulacion</a></li>
-				    	
+
 				    	<li><a href="ingenieria">Ingeniería</a></li>
 				    	<li><a href="flujo-procesos">Flujo de procesos</a></li>
 				    </ul>
@@ -87,62 +88,33 @@
 		</nav>
 	</header>
 	<main>
-		<section class="fixed-page" style="background-image: url(images/flujo-procesos.jpg);">
-			<article>
-				<div class="parrafos numeros">
-					<p>
-						<b>850</b>
-						Diseños de<br>
-						productos
-					</p>
-				</div>
-				<div class="parrafos numeros">
-					<p>
-						<b>+1,250</b>
-						Simulaciones<br>
-						realizadas
-					</p>
-				</div>
-				<div class="parrafos numeros">
-					<p>
-						<b>3,000+</b>
-						Pruebas en<br>
-						productos
-					</p>
-				</div>
-				<div class="parrafos numeros">
-					<p>
-						<b>+1500</b>
-						Productos<br>
-						fabricados
-					</p>
-				</div>
-				<div class="parrafos numeros">
-					<p>
-						<b>24/7</b>
-						Sistemas<br>
-						automatizados
-					</p>
-				</div>
-			</article>
+		<section class="fixed-page fixed-page-cont" style="background-image: url(images/contacto.jpg); background-size: cover">
 		</section>
 		<section class="scroll-page">
 			<article>
-				<h1>Flujo de procesos</h1>
-			<div class="img-left-min">
-				<img src="images/flujo-1.jpg" alt="estructuras metalicas, naves industriales, equipos industriales">
-				<p>La simulación y predicción del funcionamiento de todo sistema es una herramienta invaluable, ofrecemos estudios integrales de ingeniería en simulación de procesos mediante sistemas estocásticos que proporcionan datos y validan tanto la disposición de equipos como la adquisición de los mismos. Este tipos de estudios permiten emular el funcionamiento de cualquier tipo de sistema y su entorno permitiendo tomar decisiones como:</p>
-			</div>
-			<ul class="lista-cuadrados">
-				<li>Acercamiento Estático: cálculo con promedio (tiempos de ciclo, capacidad, etc.)</li>
-				<li>Acercamiento Dinámico (simulativo):</li>
-				<li>Generación aleatoria de números</li>
-				<li>Distribución (normal, exponencia, etc.)</li>
-				<li>Manipulación de variables</li>
-				<li>Reproducible</li>
-				<li>Interacción de sistemas complejos</li>
-				<li>Interacción media y temporizada</li>
-			</ul>
+				<h1>CONTACTO</h1>
+		        <h2 style="font-size: 22px;">QUEREMOS TRABAJAR CONTIGO</h2>
+		        <div class="contacto-1">
+		        	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1927399.1126749462!2d-99.01903356825353!3d19.349598033089823!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cf8cb0ddc0a765%3A0xe25cae5bd60220ad!2sPuebla!5e0!3m2!1ses-419!2smx!4v1464275380541" frameborder="0" style="border:0" allowfullscreen></iframe>
+		        	<p>
+		        		<b>+52 (222) 273 99 00 Ext 1118</b><br>
+		        		contacto@stahlwerke.mx
+		        		Río Papaloapan #100,<br>
+		        		San Lorenzo Almecatla,<br>
+		        		Cuautlancingo, Puebla<br>
+		        		C.P. 72710<br>
+		        	</p>
+		        </div>
+		        <h2>Queremos escucharte</h2>
+		        	<form method="POST">
+		        		<input type="text" name="nombre" placeholder="Nombre completo">
+		        		<input type="text" name="compañia" placeholder="Compañia">
+		        		<input type="text" name="ubicacion" placeholder="Ciudad y Estado">
+		        		<input type="text" name="telefono" placeholder="Teléfono de contacto">
+		        		<input type="email" name="email" placeholder="E-mail">
+		        		<textarea name="mensaje" id="" placeholder="Mensaje"></textarea>
+		        		<input type="submit"  name="cont" value="Enviar Mensaje">
+		        	</form>
 			<div class="scroll-fotter scroll-fotter-none">
 				<p>© Stahl Werke - Todos los derechos reservados</p>
 			</div>
@@ -155,7 +127,10 @@
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-64257742-11', 'auto');

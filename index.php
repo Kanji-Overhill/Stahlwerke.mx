@@ -10,7 +10,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@StahlWerke">
 	<meta name="twitter:title" content="StahlWerke | Naves Industriales, Estructuras de acero">
-	<meta name="twitter:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas">
+	<meta name="twitter:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, corte con laser, bandas transportadoras, racks industriales, y mucho mas">
 	<meta name="twitter:image" content="http://stahlwerke.mx/images/acerca.jp">
 
 	<!-- Open Graph data -->
@@ -48,7 +48,7 @@
 				    <div for="">
 				    	<a class="menu-desplegar" id="desplegar-1" href="tecnologia">Tecnología</a>
 				        <ul class="sub-menu" id="sub-1">
-				    	<li><a href="aplicaciones">Aplicaciones</a></li>
+				    	<li><a href="corte-laser">Corte con laser</a></li>
 				    	<li><a href="dispositivos-almacenaje">Dispositivos de almacenaje</a></li>
 				    	<li><a href="estructuras-metalicas">Estructuras metálicas</a></li>
 				    	<li><a href="dispositivos-transporte">Dispositivos de transporte</a></li>
@@ -59,6 +59,7 @@
 				<li>
 				    <a class="menu-desplegar" id="desplegar-2" href="servicios">Servicios</a>
 				    <ul class="sub-menu" id="sub-2">
+				    	<li><a href="aplicaciones">Aplicaciones</a></li>
 				    	<li><a href="preparacion-trabajo">Preparacion</a></li>
 				    	<li><a href="simulacion">Simulacion</a></li>
 				    	

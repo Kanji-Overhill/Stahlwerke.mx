@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8"> 
-	<title>Construccion de Naves Industriales, Estructuras de acero</title>
+	<title>Maquila de corte con laser, Naves Industriales</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas">
+	<meta name="description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, Corte con laser, bandas transportadoras, racks industriales, y mucho mas">
 	<meta name="robots" content="index, follow">
 		<!-- Twitter Card data -->
 	<meta name="twitter:card" content="summary">
@@ -20,12 +20,10 @@
 	<meta property="og:image" content="http://stahlwerke.mx/images/acerca.jpg" />
 	<meta property="og:description" content="En StahlWerke diseñamos y construimos naves industriales, estructuras metálicas, equipos industriales, bandas transportadoras, racks industriales, y mucho mas" /> 
 	<meta property="og:site_name" content="Stahlwerke" />
-
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
 	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/styles-scroll-page.css">
 	<link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/flaticon.css">
-
-	<link rel="canonical" href="http://stahlwerke.mx/flujo-procesos" />
+	<link rel="canonical" href="http://stahlwerke.mx/dispositivos-transporte" />
 </head>
 <body>
 	<header>
@@ -47,7 +45,7 @@
 				    <div for="">
 				    	<a class="menu-desplegar" id="desplegar-1" href="tecnologia">Tecnología</a>
 				        <ul class="sub-menu" id="sub-1">
-				    	
+				    	<li><a href="corte-laser">Corte con laser</a></li>
 				    	<li><a href="dispositivos-almacenaje">Dispositivos de almacenaje</a></li>
 				    	<li><a href="estructuras-metalicas">Estructuras metálicas</a></li>
 				    	<li><a href="dispositivos-transporte">Dispositivos de transporte</a></li>
@@ -87,7 +85,7 @@
 		</nav>
 	</header>
 	<main>
-		<section class="fixed-page" style="background-image: url(images/flujo-procesos.jpg);">
+	<section class="fixed-page" style="background-image: url(images/corte-laser-monterrey-inoxidable.jpg); background-size: cover;">
 			<article>
 				<div class="parrafos numeros">
 					<p>
@@ -126,24 +124,43 @@
 				</div>
 			</article>
 		</section>
+	
+		<section class="fixed-page">
+			<article>
+				<div class="parrafos numeros" style="max-width: 200px;">
+					<p>
+						<b>2,500m2</b>
+						Nave de <br>
+						Ingeniería
+					</p>
+				</div>
+				<div class="parrafos numeros" style="max-width: 200px;">
+					<p>
+						<b>+20</b>
+						Años de<br>
+						Experiencia
+					</p>
+				</div>
+				<div class="parrafos numeros" style="max-width: 200px;">
+					<p>
+						<b>+120</b>
+						Equipo de<br>
+						Trabajo
+					</p>
+				</div>
+			</article>
+		</section>
 		<section class="scroll-page">
 			<article>
-				<h1>Flujo de procesos</h1>
-			<div class="img-left-min">
-				<img src="images/flujo-1.jpg" alt="estructuras metalicas, naves industriales, equipos industriales">
-				<p>La simulación y predicción del funcionamiento de todo sistema es una herramienta invaluable, ofrecemos estudios integrales de ingeniería en simulación de procesos mediante sistemas estocásticos que proporcionan datos y validan tanto la disposición de equipos como la adquisición de los mismos. Este tipos de estudios permiten emular el funcionamiento de cualquier tipo de sistema y su entorno permitiendo tomar decisiones como:</p>
-			</div>
-			<ul class="lista-cuadrados">
-				<li>Acercamiento Estático: cálculo con promedio (tiempos de ciclo, capacidad, etc.)</li>
-				<li>Acercamiento Dinámico (simulativo):</li>
-				<li>Generación aleatoria de números</li>
-				<li>Distribución (normal, exponencia, etc.)</li>
-				<li>Manipulación de variables</li>
-				<li>Reproducible</li>
-				<li>Interacción de sistemas complejos</li>
-				<li>Interacción media y temporizada</li>
-			</ul>
-			<div class="scroll-fotter scroll-fotter-none">
+				<h1><b>Corte laser</b><br>2D y 3D</h1>
+		        <ul class="lista-2-colores">
+		        	<li>Maquilado con laser 3d y 2d</li>
+		        	<li>Corte de piezas con laser</li>
+		        	<li>Fabricacion de prototipos</li>
+		        	<li>Diseño de piezas metalicas</li>
+		        	<li>Maquinado CNC</li>
+		        </ul>
+			<div class="scroll-fotter ">
 				<p>© Stahl Werke - Todos los derechos reservados</p>
 			</div>
 			</article>
