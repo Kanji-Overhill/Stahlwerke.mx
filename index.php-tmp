@@ -138,7 +138,7 @@
 				<div class="aside aside4">
 					<h3>Maquinado y Fabricación<span></span></h3>
 					<p>Nuestro taller cuenta con la capacidad de fabricar estructuras complejas de acero al carbón, maquinado con corte laser 2D y 3D, así como aleaciones de aluminio. Asimismo, se implementan diferentes técnicas de soldadura de acuerdo a las necesidades del producto.<br>
-La empresa cuenta con experiencia en materia de diseños de producción en serie y ensambles.</p>
+					La empresa cuenta con experiencia en materia de diseños de producción en serie y ensambles.</p>
 					<a href="contacto">Cotizar Ahora</a>
 				</div>
 				<div class="aside aside5">
