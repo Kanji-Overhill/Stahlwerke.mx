@@ -45,7 +45,7 @@
 				    <div for="">
 				    	<a class="menu-desplegar" id="desplegar-1" href="tecnologia">Tecnología</a>
 				        <ul class="sub-menu" id="sub-1">
-				    	
+				    	<li><a href="corte-laser">Corte con laser</a></li>
 				    	<li><a href="dispositivos-almacenaje">Dispositivos de almacenaje</a></li>
 				    	<li><a href="estructuras-metalicas">Estructuras metálicas</a></li>
 				    	<li><a href="dispositivos-transporte">Dispositivos de transporte</a></li>
