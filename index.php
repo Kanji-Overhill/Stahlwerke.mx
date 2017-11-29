@@ -91,7 +91,7 @@
 		<section class="index-sec-1">
 		    <iframe id="player" src="http://www.youtube.com/embed/JTXj8I2Hyq4?autoplay=1&loop=1&playlist=JTXj8I2Hyq4&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
 			<article class="index-art-1">
-				<h1>Estructuras metálicas, Naves Industriales, soldaduras y Equipos industriales</h1>
+				<h1>Estructuras metálicas, Naves Industriales, Corte Laser y Equipos industriales</h1>
 			    <h2>Stahlwerke</h2>
 			    <div class="pop-up" id="p1">
 			    	<a><img src="images/cruz.png" alt="estructuras metalicas, naves industriales, equipos industriales"></a>
