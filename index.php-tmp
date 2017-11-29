@@ -113,7 +113,7 @@
 			<article class="index-art-2">
 				<div class="active-aside aside aside1">
 					<h3>Usted tiene la necesidad, <span>nosotros tenemos la solución</span></h3>
-					<p>Ofrecemos servicios flexibles y competitivos en materia de diseño, ingeniería y fabricación de estructuras, racks, pallets, tanques y equipos, así como el desarrollo y automatización de sistemas de elevación a la medida de sus necesidades.<br>
+					<p>Ofrecemos servicios flexibles y competitivos en materia de diseño, ingeniería y fabricación de estructuras, racks, pallets, corte laser, así como el desarrollo y automatización de sistemas de elevación a la medida de sus necesidades.<br>
 				    </p>
 					<a href="contacto">Cotizar Ahora</a>
 				</div>
@@ -137,7 +137,7 @@
 				</div>
 				<div class="aside aside4">
 					<h3>Maquinado y Fabricación<span></span></h3>
-					<p>Nuestro taller cuenta con la capacidad de fabricar estructuras complejas de acero al carbón, así como aleaciones de aluminio. Asimismo, se implementan diferentes técnicas de soldadura de acuerdo a las necesidades del producto.<br>
+					<p>Nuestro taller cuenta con la capacidad de fabricar estructuras complejas de acero al carbón, maquinado con corte laser 2D y 3D, así como aleaciones de aluminio. Asimismo, se implementan diferentes técnicas de soldadura de acuerdo a las necesidades del producto.<br>
 La empresa cuenta con experiencia en materia de diseños de producción en serie y ensambles.</p>
 					<a href="contacto">Cotizar Ahora</a>
 				</div>
